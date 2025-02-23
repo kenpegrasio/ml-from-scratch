@@ -29,7 +29,7 @@ The theoretical derivation of Linear Regression used in this project is based on
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/LinearRegression.git
+   git clone https://github.com/kenpegrasio/ml-from-scratch.git
    cd LinearRegression
    ```
 2. Install necessary dependencies (if any):

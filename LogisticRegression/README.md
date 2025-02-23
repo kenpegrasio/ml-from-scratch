@@ -28,7 +28,7 @@ The theoretical derivation of Logistic Regression used in this project is based 
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/LogisticRegression.git
+   git clone https://github.com/kenpegrasio/ml-from-scratch.git
    cd LogisticRegression
    ```
 2. Install necessary dependencies (if any):
